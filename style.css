@@ -1,0 +1,74 @@
+  img {
+    width: 16%;
+    padding: 1%;
+  }
+  nav {
+    width: 73%;
+    padding: 1%;
+  }
+  body {
+    font-family: "poppins";
+  }
+  #aboutMe { 
+  margin: 1%;
+  }
+  #caseStudies {
+    margin: 1%;
+  }
+  button {
+    font-family: "poppins";
+    color: #ffffff;
+    background-color: rgb(169, 9, 69);
+    margin: 0%;
+    border: 0px;
+    border-radius: 5%;
+    height: 50px;
+    width: auto;
+    font-weight: 600;
+    font-size: 18px;
+  }
+  #contactMe {
+    margin-right: 20px;
+  }
+  #resume {
+    margin-left: 80px;
+  }
+  .aboutme {
+    margin-left: 80px;
+  }
+  .h1 {
+    font-weight: 900;
+    font-size: 100;
+  }
+  p {
+    word-wrap: break-word;
+  }
+  footer{
+    background-color: #ffffff;
+    margin-left: 500px;
+    justify-content: center;
+  }
+  h2 {
+    margin-top: 300px;
+  }
+  h3 {
+    text-align:justify;
+    text-indent: 17%
+  }
+  #resumelink {
+    text-indent: 20%;
+  }
+  #emailaddress{
+    text-indent: 12%;
+  }
+  #linkedinlink {
+    text-indent: 20%;
+  }
+  #copywright {
+    text-indent: 8%;
+  }
+  .right{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+  }
